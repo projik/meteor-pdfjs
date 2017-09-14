@@ -1,10 +1,10 @@
 import PackageHelper from 'package-helper.js';
 
 Package.describe({
-  name: "jbcase:pdfjs",
+  name: "projik:pdfjs",
   summary: "PDF rendering for your Meteor application (client only)",
   version: "1.1.114",
-  git: "https://github.com/jbcase/meteor-pdfjs"
+  git: "https://github.com/projik/meteor-pdfjs"
 });
 
 Package.on_use(function (api) {
